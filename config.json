@@ -1,0 +1,47 @@
+{
+    "name": "Aluracord - Minions",
+    "theme": {
+      "colors": {
+        "primary": {
+          "050": "#E3F9E5",
+          "100": "#C1EAC5",
+          "200": "#A3D9A5",
+          "300": "#7BC47F",
+          "400": "#57AE5B",
+          "500": "#3F9142",
+          "600": "#2F8132",
+          "700": "#207227",
+          "800": "#0E5814",
+          "900": "#05400A"
+        },
+        "neutrals": {
+          "000": "#FFFFFF",
+          "050": "#F5F7FA",
+          "100": "#E4E7EB",
+          "200": "#CBD2D9",
+          "300": "#9AA5B1",
+          "400": "#52667A",
+          "500": "#313D49",
+          "600": "#29333D",
+          "700": "#212931",
+          "800": "#181F25",
+          "900": "#101418",
+          "999": "#080A0C"
+        }
+      }
+    },
+    "stickers": [
+        "https://pbs.twimg.com/profile_images/378800000163507654/9d64172fe55530c95c16a6242aa5196e_reasonably_small.gif",
+       "https://pa1.narvii.com/6495/c00730b910d610088ffb2636b117af6a172ed773_128.gif",
+       "https://pa1.narvii.com/6465/9864bb6cb5318ce533aae70c15debe3213495016_128.gif",
+       "https://cdn158.picsart.com/229826980010202.gif?to=crop&r=256",
+       "https://pa1.narvii.com/7159/0b87a71db2aa41bad527a64fe309277c9b91afe2r1-400-295_128.gif",
+       "https://media0.giphy.com/media/l3HBbltOYjoNq/giphy.gif",
+       "https://i.pinimg.com/originals/d7/74/31/d77431d332fccc2220e942c7fbcec7fb.gif",
+       "https://media0.giphy.com/media/1uPiL9Amv5zkk/giphy.gif?cid=82a1493bgr57zktceia5prq0nivw4lbh70qr4pntp3asi2xy&rid=giphy.gif&ct=g",
+       "https://c.tenor.com/Yc2-j0XnglcAAAAM/what-minion.gif",
+       "https://www.icegif.com/wp-content/uploads/minions-icegif.gif",
+       "https://i.pinimg.com/originals/09/6b/f7/096bf72e2dbe11edbf6361fe5e9cbe23.gif",
+       "https://i.gifer.com/5G7b.gif"
+    ]
+  }
